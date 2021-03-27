@@ -57,3 +57,7 @@ background-color:coral;
 #name {
 font-family: 'Lobster', cursive;
 }
+
+html {
+scroll-behavior: smooth;
+}
